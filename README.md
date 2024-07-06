@@ -39,9 +39,3 @@ paper list DG
 |11|A2XP|A2XP:Towards Private Domain Generalization|https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_A2XP_Towards_Private_Domain_Generalization_CVPR_2024_paper.pdf|CVPR2024|https://airlabkhu.github.io/A2XP/|
 |12|DiPrompT|DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning|https://arxiv.org/pdf/2403.08506|CVPR2024||
 |13|DAF-DG|A Dual-Augmentor Framework for Domain Generalization in 3D Human Pose Estimation|https://arxiv.org/pdf/2403.11310|CVPR2024|https://github.com/davidpengucf/DAF-DG|
-
-
-
-
-
-
